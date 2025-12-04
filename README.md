@@ -1,2 +1,2 @@
-# side_yeon
-Paletto 인턴 사이드 프로젝트, Somit의 repository입니다.
+# Somit!
+부소마에서 만나는 편한 물품대여 서비스, Somit!
